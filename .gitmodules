@@ -1,0 +1,3 @@
+[submodule "docs/compartido"]
+	path = docs/compartido
+	url = https://github.com/CesarMMC11/spidi-docs-compartidos.git
